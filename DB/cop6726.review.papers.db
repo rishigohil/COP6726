@@ -1,0 +1,59 @@
+01: Jensen, Christian S., et al. "Multidimensional data modeling for location-based services." The VLDB Journal—The International Journal on Very Large Data Bases 13.1 (2004): 1-21.
+02: Duggan, Jennie, and Michael Stonebraker. "Incremental elasticity for array databases." Proceedings of the 2014 ACM SIGMOD international conference on Management of data. ACM, 2014.
+03: Papadias, Dimitris, et al. "Query processing in spatial network databases." Proceedings of the 29th international conference on Very large data bases-Volume 29. VLDB Endowment, 2003.
+04: Cheng, James, et al. "Fg-index: towards verification-free query processing on graph databases." Proceedings of the 2007 ACM SIGMOD international conference on Management of data. ACM, 2007.
+05: Stefanovic, Nebojsa, Jiawei Han, and Krzysztof Koperski. "Object-based selective materialization for efficient implementation of spatial data cubes." IEEE Transactions on Knowledge and Data Engineering 12.6 (2000): 938-958.
+06: Tiakas, Eleftherios, et al. "Trajectory similarity search in spatial networks." Database Engineering and Applications Symposium, 2006. IDEAS'06. 10th International. IEEE, 2006.
+07: Abadi, Daniel J., Samuel R. Madden, and Nabil Hachem. "Column-stores vs. row-stores: How different are they really?." Proceedings of the 2008 ACM SIGMOD international conference on Management of data. ACM, 2008.
+08: Harizopoulos, Stavros, et al. "Performance tradeoffs in read-optimized databases." Proceedings of the 32nd international conference on Very large data bases. VLDB Endowment, 2006.
+09: Chang, Fay, et al. "Bigtable: A distributed storage system for structured data." ACM Transactions on Computer Systems (TOCS) 26.2 (2008): 4.
+10: Yang, Hung-chih, et al. "Map-reduce-merge: simplified relational data processing on large clusters." Proceedings of the 2007 ACM SIGMOD international conference on Management of data. ACM, 2007.
+11: Yan, Xifeng, Philip S. Yu, and Jiawei Han. "Graph indexing: a frequent structure-based approach." Proceedings of the 2004 ACM SIGMOD international conference on Management of data. ACM, 2004.
+12: Fan, Wenfei, et al. "Association rules with graph patterns." Proceedings of the VLDB Endowment 8.12 (2015): 1502-1513.
+13: Zhang, Chao, et al. "Assembler: efficient discovery of spatial co-evolving patterns in massive geo-sensory data." Proceedings of the 21th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2015.
+14: Zheng, Kai, et al. "Online discovery of gathering patterns over trajectories." IEEE Transactions on Knowledge and Data Engineering 26.8 (2014): 1974-1988.
+15: Zaki, Mohammed J., and Karam Gouda. "Fast vertical mining using diffsets." Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2003.
+16: Zaki, Mohammed Javeed, and C-J. Hsiao. "Efficient algorithms for mining closed itemsets and their lattice structure." IEEE transactions on knowledge and data engineering 17.4 (2005): 462-478.
+17: Zhu, Feida, et al. "Mining colossal frequent patterns by core pattern fusion." Data Engineering, 2007. ICDE 2007. IEEE 23rd International Conference on. IEEE, 2007.
+18: Cao, Huiping, Nikos Mamoulis, and David W. Cheung. "Mining frequent spatio-temporal sequential patterns." Data Mining, Fifth IEEE International Conference on. IEEE, 2005.
+19: Pei, Jian, et al. "Mining sequential patterns by pattern-growth: The prefixspan approach." IEEE Transactions on knowledge and data engineering 16.11 (2004): 1424-1440.
+20: Zaki, Mohammed J. "SPADE: An efficient algorithm for mining frequent sequences." Machine learning 42.1 (2001): 31-60.
+21: Ma, Shuai, et al. "Proxies for shortest path and distance queries." IEEE Transactions on Knowledge and Data Engineering 28.7 (2016): 1835-1850.
+22: Jeung, Hoyoung, et al. "Path prediction and predictive range querying in road network databases." The VLDB Journal—The International Journal on Very Large Data Bases 19.4 (2010): 585-602.
+23: Wei, Fang. "TEDI: efficient shortest path query answering on graphs." Proceedings of the 2010 ACM SIGMOD International Conference on Management of data. ACM, 2010.
+24: Cheng, James, et al. "Fast graph query processing with a low-cost index." The VLDB Journal—The International Journal on Very Large Data Bases 20.4 (2011): 521-539.
+25: Trißl, Silke, and Ulf Leser. "Fast and practical indexing and querying of very large graphs." Proceedings of the 2007 ACM SIGMOD international conference on Management of data. ACM, 2007.
+26: Holder, Lawrence B., Diane J. Cook, and Surnjani Djoko. "Substucture Discovery in the SUBDUE System." KDD workshop. 1994.
+27: Zhao, Xiang, et al. "A partition-based approach to structure similarity search." Proceedings of the VLDB Endowment 7.3 (2013): 169-180.
+28: Khalil, Elias Boutros, Bistra Dilkina, and Le Song. "Scalable diffusion-aware optimization of network topology." Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.
+29: Hsieh, Hsun-Ping, Shou-De Lin, and Yu Zheng. "Inferring air quality for station location recommendation based on urban big data." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.
+30: Funke, Stefan, André Nusser, and Sabine Storandt. "On k-path covers and their applications." Proceedings of the VLDB Endowment 7.10 (2014): 893-902.
+31: Yan, Xifeng, and Jiawei Han. "gspan: Graph-based substructure pattern mining." Data Mining, 2002. ICDM 2003. Proceedings. 2002 IEEE International Conference on. IEEE, 2002.
+32: Gibson, David, Ravi Kumar, and Andrew Tomkins. "Discovering large dense subgraphs in massive graphs." Proceedings of the 31st international conference on Very large data bases. VLDB Endowment, 2005.
+33: Balalau, Oana Denisa, et al. "Finding subgraphs with maximum total density and limited overlap." Proceedings of the Eighth ACM International Conference on Web Search and Data Mining. ACM, 2015.
+34: Fang, Yixiang, et al. "Effective community search over large spatial graphs." Proceedings of the VLDB Endowment 10.6 (2017): 709-720.
+35: Tsourakakis, Charalampos, et al. "Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees." Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2013.
+36: Ruchansky, Natali, et al. "The minimum wiener connector problem." Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data. ACM, 2015.
+37: Lim, Sungsu, et al. "LinkSCAN*: Overlapping community detection using the link-space transformation." Data Engineering (ICDE), 2014 IEEE 30th International Conference on. IEEE, 2014.
+38: Khaouid, Wissam, et al. "K-core decomposition of large networks on a single PC." Proceedings of the VLDB Endowment 9.1 (2015): 13-23.
+39: Wu, Huanhuan, et al. "Reachability and time-based path queries in temporal graphs." Data Engineering (ICDE), 2016 IEEE 32nd International Conference on. IEEE, 2016.
+40: Zhou, Junfeng, et al. "DAG Reduction: Fast Answering Reachability Queries." Proceedings of the 2017 ACM International Conference on Management of Data. ACM, 2017.
+41: Wang, Wei, Jiong Yang, and Richard Muntz. "STING: A statistical information grid approach to spatial data mining." VLDB. Vol. 97. 1997.
+42: Wang, Lu, et al. "How to partition a billion-node graph." Data Engineering (ICDE), 2014 IEEE 30th International Conference on. IEEE, 2014.
+43: Bourse, Florian, Marc Lelarge, and Milan Vojnovic. "Balanced graph edge partition." Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.
+44: Liu, Hongfu, et al. "Spectral ensemble clustering." Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining. ACM, 2015.
+45: Zhu, Yada, Hongxia Yang, and Jingrui He. "Co-clustering based dual prediction for cargo pricing optimization." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.
+46: Hinneburg, Alexander, and Hans-Henning Gabriel. "Denclue 2.0: Fast clustering based on kernel density estimation." IDA. Vol. 7. 2007.
+47: Yu, Linbin, and Chris Ding. "Network community discovery: solving modularity clustering via normalized cut." Proceedings of the Eighth Workshop on Mining and Learning with Graphs. ACM, 2010.
+48: White, Scott, and Padhraic Smyth. "A spectral clustering approach to finding communities in graphs." Proceedings of the 2005 SIAM international conference on data mining. Society for Industrial and Applied Mathematics, 2005.
+49: Bhaduri, Kanishka, Bryan L. Matthews, and Chris R. Giannella. "Algorithms for speeding up distance-based outlier detection." Proceedings of the 17th ACM SIGKDD international conference on Knowledge Discovery and Data Mining. ACM, 2011.
+50: Karypis, George, Eui-Hong Han, and Vipin Kumar. "Chameleon: Hierarchical clustering using dynamic modeling." Computer 32.8 (1999): 68-75.
+51: Murtagh, Fionn, Geoff Downs, and Pedro Contreras. "Hierarchical clustering of massive, high dimensional data sets by exploiting ultrametric embedding." SIAM Journal on Scientific Computing 30.2 (2008): 707-730.
+52: Newman, Mark EJ. "Modularity and community structure in networks." Proceedings of the national academy of sciences 103.23 (2006): 8577-8582.52
+53: Bu, Yingyi, et al. "Efficient anomaly monitoring over moving object trajectory streams." Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2009.
+54: Gao, Jing, et al. "On community outliers and their efficient detection in information networks." Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2010.
+55: Kuck, Jonathan, et al. "Query-based outlier detection in heterogeneous information networks." Advances in database technology: proceedings. International Conference on Extending Database Technology. Vol. 2015.
+56: Tao, Yufei, Xiaokui Xiao, and Shuigeng Zhou. "Mining distance-based outliers from large databases in any metric space." Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2006.
+57: Yu, Yanwei, et al. "Detecting moving object outliers in massive-scale trajectory streams." Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.
+58: Song, Xiuyao, et al. "Conditional anomaly detection." IEEE Transactions on Knowledge and Data Engineering 19.5 (2007).
+59: Shiokawa, Hiroaki, Yasuhiro Fujiwara, and Makoto Onizuka. "SCAN++: efficient algorithm for finding clusters, hubs and outliers on large-scale graphs." Proceedings of the VLDB Endowment 8.11 (2015): 1178-1189.
